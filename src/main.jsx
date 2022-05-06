@@ -5,6 +5,7 @@ import { ReactQueryDevtools } from 'react-query/devtools';
 
 //local imports
 import queryClient from './query-client';
+import './i18n';
 import { AllRoutes } from 'routes';
 
 ReactDOM.createRoot(document.getElementById('root')).render(

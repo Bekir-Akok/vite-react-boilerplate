@@ -1,3 +1,4 @@
 import Toaster from './toaster';
+import LanguageSwitcher from './language-switcher';
 
-export { Toaster };
+export { Toaster, LanguageSwitcher };
